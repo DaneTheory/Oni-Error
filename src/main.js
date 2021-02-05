@@ -1,10 +1,8 @@
-const OniError = () => {
-  return 'Oni-Error'
-}
+import Core from './core'
 
 
-export {
-  OniError
+const OniError = {
+  ...Core
 }
 
 

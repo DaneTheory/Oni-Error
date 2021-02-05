@@ -1,7 +1,7 @@
 {
   "name": "oni-error",
   "version": "1.0.0",
-  "description": "Sane scalable error handling for Node app/lib development.",
+  "description": "Sane, scalable error handling for Node app/lib development.",
   "main": "src/index.js",
   "module": "src/main.js",
   "repository": "https://github.com/DaneTheory/Oni-Error.git",
